@@ -1,5 +1,5 @@
 # SFObjectBatchFieldUpdater
-A simple batch class that can be called using Execute Anon or other classes.
+A simple batch class that can be called using Execute Anon or other classes.  
 Updates multiple fields on unlimited records of a single Object.
 #
 # Code to run in Anon Apex or Integration
